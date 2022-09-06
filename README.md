@@ -25,8 +25,8 @@ The full analysis was carried out using Microsoft Excel.
 ### Data
 
 The GameCo project brief and vgsales data set were provided by Career Foundry.
-*  GameCo_Project_Brief.pdf(https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_Project-Brief.pdf)
-*  GameCo_vgsales.xlsx(https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_vgsales.xlsx)
+*  [GameCo_Project_Brief.pdf](https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_Project-Brief.pdf)
+*  [GameCo_vgsales.xlsx](https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_vgsales.xlsx)
 
  ## Project Findings
  
