@@ -30,8 +30,21 @@ The GameCo project brief and vgsales data set were provided by Career Foundry.
 
  ## Project Findings
  
- ### Project documentation and Presentations
-* GameCo_Presentation.pdf(https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_Presentation.pdf)
-* Document containing the data processing steps, data dictionary, exploratory and descriptive analysis: GameCo_Report.pdf(https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_Report.pdf)
+ ### Project Presentation and Documentation
+* [GameCo_Presentation.pdf](https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_Presentation.pdf)
+
+Document containing the data processing steps, data dictionary, dats exploration and descriptive analysis:
+*  [GameCo_Report.pdf](https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_Report.pdf)
+
+#### Market Share and Popular Genre Slides
+![GameCo_Market_Share.png](https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_Market_Share.png)
+![GameCo_Popular_Genres.png](https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_Popular_Genres.png)
+![GameCo_Regional_Sales.png](https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_Regional_Sales.png)
+![GameCo_Platforms.png](https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_Platform.png)
+![GameCo_Competitors.png](https://github.com/eekevall/GameCo-Excel-Analysis/blob/main/GameCo_Competitors.png)
+
+
+
+
 
  
