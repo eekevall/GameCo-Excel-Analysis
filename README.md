@@ -15,7 +15,7 @@ GameCo, a new video company, have requested a descriptive analysis of the [VGCha
 * Conduct exploratory data analysis
 * Grouping and summarising data
 * Conduct a descriptive analysis
-* Develop insights and create visualizations 
+* Develop insights and create visualisations 
 * Produce a presentation communicating insights 
 
 ### Tools
